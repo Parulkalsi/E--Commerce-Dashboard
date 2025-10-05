@@ -1,65 +1,75 @@
-### **Problem Statement**
+Problem Statement
 
 In the dynamic and competitive landscape of e-commerce, businesses often struggle to monitor real-time sales performance, track fulfillment efficiency, and identify high-performing product segments across different geographies and time periods. The absence of an integrated and visualized reporting system results in delayed decision-making, stock mismanagement, and missed revenue opportunities.
 
-### **What We Have Solved**
+What We Have Solved
 
-1. **Unified Sales Monitoring**
-    
-    We consolidated multiple Amazon sales files into a centralized Power BI dashboard for real-time visibility.
-    
-2. **Automated Data Integration**
-    
-    Automated folder-level connections allow seamless refresh of new data entries without manual intervention, reducing human error and effort.
-    
-3. **Real-Time Performance Tracking**
-    
-    Delivered dynamic visuals (MTD, QTD, YTD) to monitor sales trends, enabling quick decision-making based on current performance.
-    
-4. **Shipment Efficiency Analysis**
-    
-    Segregated shipped and unshipped products, helping identify fulfillment bottlenecks and streamline logistics.
-    
-5. **City-Wise and Size-Wise Breakdown**
-    
-    Provided detailed insights into sales by city and product size to support targeted marketing and regional inventory planning.
-    
-6. **Product Category Performance**
-    
-    Highlighted top and underperforming product types for better merchandising and forecasting.
-    
-7. **Dynamic Filtering & Slicing**
-    
-    Enabled users to slice and drill data by category, fulfillment type, and shipment level using interactive visuals and filters.
-    
+Unified Sales Monitoring
+Consolidated multiple Amazon sales files into a centralized Power BI dashboard for real-time visibility.
 
-### **Key Features & Metrics**
+Automated Data Integration
+Automated folder-level connections allow seamless refresh of new data entries without manual intervention, reducing human error and effort.
 
-1. **📦 Total Sales Overview:**
-    - **Total Sales:** ₹78.59M
-    - **Shipped Product Sales:** ₹71.06M
-    - **Unshipped Products:** ₹4.34M
-    - **Easy Ship Sales:** ₹3.19M
-        
-        This high-level overview helps understand the volume and performance of shipped vs. unshipped items, providing critical insights for supply chain optimization.
-        
-2. **📅 Sales Trend Analysis (YTD & MTD/QTD):**
-    - YTD line graph illustrates a **consistent growth in sales**, showing effective momentum across quarters.
-    - MTD and QTD tables break down sales by months and quarters, aiding month-over-month performance analysis.
-3. **📐 Size-wise Product Demand:**
-    - The bar chart visualizes shipped product quantity by size (e.g., 6XL, 4XL, XS, etc.).
-    - This is crucial for **inventory and manufacturing decisions**.
-4. **🏙️ City-Wise Performance:**
-    - Cities like **Bengaluru, Hyderabad, and Mumbai** lead in product sales.
-    - This regional insight can be used to optimize **logistics, marketing campaigns**, and warehouse placement.
-5. **🛍️ Category-Wise Product Insights:**
-    - Top-performing categories include **Set, Saree, Western Dress**, and **Ethnic Dress**.
-    - This enables better **product line management** and restocking strategies.
-6. **🕵️‍♀️ Slicers for Deeper Analysis:**
-    - Date range, product categories (e.g., Blouse, Bottom, Dupatta), and a slicer to **reset all filters** allow the dashboard to be highly **interactive and user-friendly**.
+Real-Time Performance Tracking
+Delivered dynamic visuals (MTD, QTD, YTD) to monitor sales trends, enabling quick decision-making based on current performance.
 
-### Business Value
+Shipment Efficiency Analysis
+Segregated shipped and unshipped products, helping identify fulfillment bottlenecks and streamline logistics.
 
-- **Real-time decision support** for marketing, inventory planning, and fulfillment tracking.
-- Helps **identify bottlenecks** in unshipped orders and streamline delivery operations.
-- Enables focused strategies on **high-converting product categories and geographies**.
+City-Wise and Size-Wise Breakdown
+Provided detailed insights into sales by city and product size to support targeted marketing and regional inventory planning.
+
+Product Category Performance
+Highlighted top and underperforming product types for better merchandising and forecasting.
+
+Dynamic Filtering and Slicing
+Enabled users to slice and drill data by category, fulfillment type, and shipment level using interactive visuals and filters.
+
+Key Features and Metrics
+
+Total Sales Overview
+
+Total Sales: ₹78.59M
+
+Shipped Product Sales: ₹71.06M
+
+Unshipped Products: ₹4.34M
+
+Easy Ship Sales: ₹3.19M
+This high-level overview helps understand the volume and performance of shipped vs. unshipped items, providing critical insights for supply chain optimization.
+
+Sales Trend Analysis (YTD and MTD/QTD)
+
+YTD line graph illustrates consistent growth in sales, showing effective momentum across quarters.
+
+MTD and QTD tables break down sales by months and quarters, aiding month-over-month performance analysis.
+
+Size-wise Product Demand
+
+The bar chart visualizes shipped product quantity by size (e.g., 6XL, 4XL, XS, etc.).
+
+This is crucial for inventory and manufacturing decisions.
+
+City-Wise Performance
+
+Cities like Bengaluru, Hyderabad, and Mumbai lead in product sales.
+
+This regional insight can be used to optimize logistics, marketing campaigns, and warehouse placement.
+
+Category-Wise Product Insights
+
+Top-performing categories include Set, Saree, Western Dress, and Ethnic Dress.
+
+This enables better product line management and restocking strategies.
+
+Slicers for Deeper Analysis
+
+Date range, product categories (e.g., Blouse, Bottom, Dupatta), and a slicer to reset all filters allow the dashboard to be highly interactive and user-friendly.
+
+Business Value
+
+Real-time decision support for marketing, inventory planning, and fulfillment tracking.
+
+Helps identify bottlenecks in unshipped orders and streamline delivery operations.
+
+Enables focused strategies on high-converting product categories and geographies.
