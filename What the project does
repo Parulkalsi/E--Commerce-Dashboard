@@ -1,75 +1,71 @@
-Problem Statement
+- Problem Statement
 
 In the dynamic and competitive landscape of e-commerce, businesses often struggle to monitor real-time sales performance, track fulfillment efficiency, and identify high-performing product segments across different geographies and time periods. The absence of an integrated and visualized reporting system results in delayed decision-making, stock mismanagement, and missed revenue opportunities.
 
-What We Have Solved
+- What We Have Solved
 
-Unified Sales Monitoring
+1. Unified Sales Monitoring
 Consolidated multiple Amazon sales files into a centralized Power BI dashboard for real-time visibility.
 
-Automated Data Integration
+2. Automated Data Integration
 Automated folder-level connections allow seamless refresh of new data entries without manual intervention, reducing human error and effort.
 
-Real-Time Performance Tracking
+3. Real-Time Performance Tracking
 Delivered dynamic visuals (MTD, QTD, YTD) to monitor sales trends, enabling quick decision-making based on current performance.
 
-Shipment Efficiency Analysis
+4. Shipment Efficiency Analysis
 Segregated shipped and unshipped products, helping identify fulfillment bottlenecks and streamline logistics.
 
-City-Wise and Size-Wise Breakdown
+5. City-Wise and Size-Wise Breakdown
 Provided detailed insights into sales by city and product size to support targeted marketing and regional inventory planning.
 
-Product Category Performance
+6. Product Category Performance
 Highlighted top and underperforming product types for better merchandising and forecasting.
 
-Dynamic Filtering and Slicing
+7. Dynamic Filtering and Slicing
 Enabled users to slice and drill data by category, fulfillment type, and shipment level using interactive visuals and filters.
 
-Key Features and Metrics
+- Key Features and Metrics
 
-Total Sales Overview
+1. Total Sales Overview
+    Total Sales: ₹78.59M
+    Shipped Product Sales: ₹71.06M
+    Unshipped Products: ₹4.34M
+    Easy Ship Sales: ₹3.19M
+     This high-level overview helps understand the volume and performance of shipped vs. unshipped items, providing critical insights for supply chain optimization.
 
-Total Sales: ₹78.59M
+2. Sales Trend Analysis (YTD and MTD/QTD)
 
-Shipped Product Sales: ₹71.06M
+    YTD line graph illustrates consistent growth in sales, showing effective momentum across quarters.
 
-Unshipped Products: ₹4.34M
+    MTD and QTD tables break down sales by months and quarters, aiding month-over-month performance analysis.
 
-Easy Ship Sales: ₹3.19M
-This high-level overview helps understand the volume and performance of shipped vs. unshipped items, providing critical insights for supply chain optimization.
+3. Size-wise Product Demand
 
-Sales Trend Analysis (YTD and MTD/QTD)
+    The bar chart visualizes shipped product quantity by size (e.g., 6XL, 4XL, XS, etc.).
 
-YTD line graph illustrates consistent growth in sales, showing effective momentum across quarters.
+    This is crucial for inventory and manufacturing decisions.
 
-MTD and QTD tables break down sales by months and quarters, aiding month-over-month performance analysis.
+4. City-Wise Performance
 
-Size-wise Product Demand
+    Cities like Bengaluru, Hyderabad, and Mumbai lead in product sales.
 
-The bar chart visualizes shipped product quantity by size (e.g., 6XL, 4XL, XS, etc.).
+    This regional insight can be used to optimize logistics, marketing campaigns, and warehouse placement.
 
-This is crucial for inventory and manufacturing decisions.
+5. Category-Wise Product Insights
 
-City-Wise Performance
+    Top-performing categories include Set, Saree, Western Dress, and Ethnic Dress.
 
-Cities like Bengaluru, Hyderabad, and Mumbai lead in product sales.
+    This enables better product line management and restocking strategies.
 
-This regional insight can be used to optimize logistics, marketing campaigns, and warehouse placement.
+6. Slicers for Deeper Analysis
 
-Category-Wise Product Insights
+    Date range, product categories (e.g., Blouse, Bottom, Dupatta), and a slicer to reset all filters allow the dashboard to be highly interactive and user-friendly.
 
-Top-performing categories include Set, Saree, Western Dress, and Ethnic Dress.
+- Business Value
 
-This enables better product line management and restocking strategies.
+1. Real-time decision support for marketing, inventory planning, and fulfillment tracking.
 
-Slicers for Deeper Analysis
+2. Helps identify bottlenecks in unshipped orders and streamline delivery operations.
 
-Date range, product categories (e.g., Blouse, Bottom, Dupatta), and a slicer to reset all filters allow the dashboard to be highly interactive and user-friendly.
-
-Business Value
-
-Real-time decision support for marketing, inventory planning, and fulfillment tracking.
-
-Helps identify bottlenecks in unshipped orders and streamline delivery operations.
-
-Enables focused strategies on high-converting product categories and geographies.
+3. Enables focused strategies on high-converting product categories and geographies.
